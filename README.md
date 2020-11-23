@@ -5,7 +5,23 @@
 Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+Bikeshare is an interactive program which calculates statistical information
+for bike rentals for a specific city and a specific time frame.
+
+The following cities can currently be evaluated: Chicago, Washington, New York
+City.
+
+The following time frames are available:
+Month: January, February, March, April, May and June
+Day: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday and Sunday
+
+The user can choose one city and decide to choose one month or look at all
+months and one day or look at all days.
+
+Then, statistical information regarding the time, route and user are
+displayed.
+
+Lastly, the user and choose to display the raw data.
 
 ### Files used
 Include the files used
